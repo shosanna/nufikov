@@ -1,0 +1,54 @@
+---
+---
+
+body {
+  font-family: coquette, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+
+  h1, h2, h3, h4, h5 {
+    color: #db9aa2;
+  }
+
+  h1.page-heading {
+    font-size: 28px;
+  }
+
+  a, a:visited, a:active {
+    color: #6ab8c7;
+  }
+}
+
+header.site-header {
+  border-top-color: #db9aa2;
+
+  div.wrapper {
+    background-image: url("/assets/img/14.jpg");
+    background-size: 100%;
+    background-position: bottom;
+    height: 300px;
+    max-width: none;
+  }
+
+  a, a:visited, a:active {
+    color: white;
+  }
+
+  a.site-title {
+    font-size: 38px;
+    margin-top: 20px;
+  }
+}
+
+footer.site-footer {
+    background-image: url("/assets/img/01.jpg");
+    background-size: 100%;
+    background-position: bottom;
+    height: 150px;
+    max-width: none;
+
+    div.footer-col-wrapper {
+      color: white;
+    }
+}
