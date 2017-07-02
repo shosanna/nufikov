@@ -52,3 +52,11 @@ footer.site-footer {
       color: white;
     }
 }
+
+div.post-content {
+  img {
+    max-height: 500px;
+    margin: auto;
+    display: block;
+  }
+}
