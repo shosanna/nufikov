@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ
+title: Otázky
 permalink: /faq/
 ---
 
@@ -10,20 +10,19 @@ Pokud byste si chtěli vzít doplňek či celý outfit v barvě svatby (růžov�
 
 ## Mohu s sebou vzít +1?
 Doufáme, že o všech, kteří by chtěli vzít svou drahou polovičku s sebou víme (a dostal tedy informaci v pozvánce),
-pokud ne, obraťte se na jednoho z nás a třeba ještě nějaké místečko najdeme, i když se už blízíme kapacitě celé zahrady :(
+Bohužel již máme jinak plnou kapacitu, na místo obřadu i hostiny se bohužel vejde jen omezený počet lidí 
 
 ## Co si přejete za svatební dary?
 Nejvíce nás potěší libovolný příspěvěk na svatební cestu. Pokud se vám příčí dávat finační dary, nepohrdneme
-třeba poukázkou na knížky, stolní hrou, krásným povlečením (220x200, polštář 70x90), poukázkou do Bonami či Ikei,
+třeba poukázkou na knížky, stolní hrou, krásným povlečením (220x200, polštář 70x90), kuchařkou, poukázkou do Bonami či Ikei,
 zážitkem či kurzem ze Slevomatu a podobně. Nejlepší jsou dary od srce, nezáleží na jejich hodnotě či objemu.
 
 ## Co bude na místě k jídlu a pití? A co se bude platit?
-K jídlu bude pro Vás na místě připravený studený i teplý raut (krom sladkého, které restaurace nedělá. Kdyby kdoliv chtěl příspět napečením domácích
-svatebních koláčků, nebudeme se zlobit) a bude zadarmo. Pití stále řešíme, s velkou pravděpodobností bude placený bar na zahradě,
-ale dáme vědět.
+V době oběda i večeře bude na místě raut místních specialit. Samozřejmostí bude krásný dort a další sladkosti. Na zahradě 
+bude fungovat bar, kde bude pro hosty zdarma nealko a pivo. Víno a tvrdý alkohol bude možné si zakoupit.
 
 ## Jsem pozvaný i na hostinu?
-Všichni hosté jsou pozvaní jak na obřad, tak na hostinu a oslavu po celý den.
+Všichni hosté jsou pozvaní jak na obřad, tak na hostinu a oslavu po celý den. Nedělámee žádné rozdíly.
 
 ## A co nocleh?
 Ubytování v hotelu nezařizujeme, neboť se nachází v poměrně dobré lokalitě na Praze 4. Očekáváme tedy, že se hosté dopraví
@@ -32,6 +31,12 @@ dvojlůžkový pokoj se snídání.
 
 ## Kde se dozvím více o místu konání svatby?
 Na stránkách [Villy Voyty](http://www.villavoyta.cz/).
+
+## Jak je to s parkováním?
+U hotelu je k dispozici malé parkoviště.
+
+## Budeme se někam přesouvat?
+Ne, během celého dne zůstaneme na jednom místě.
 
 ## Ještě něco?
 Fotografka nás poprosila, abychom všem hostům sdělili, že není nutné pořizovat vlastní snímky. Bude jich spousta
