@@ -3,9 +3,16 @@ GEM
   specs:
     addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
+    capistrano (2.15.9)
+      highline
+      net-scp (>= 1.0.0)
+      net-sftp (>= 2.0.0)
+      net-ssh (>= 2.0.14)
+      net-ssh-gateway (>= 1.1.0)
     colorator (1.1.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
+    highline (1.7.8)
     jekyll (3.5.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -31,6 +38,13 @@ GEM
     mercenary (0.3.6)
     minima (2.1.1)
       jekyll (~> 3.3)
+    net-scp (1.2.1)
+      net-ssh (>= 2.6.5)
+    net-sftp (2.1.2)
+      net-ssh (>= 2.6.5)
+    net-ssh (4.1.0)
+    net-ssh-gateway (2.0.0)
+      net-ssh (>= 4.0.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -45,10 +59,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  capistrano (~> 2.15.5)
   jekyll (= 3.5.0)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
   tzinfo-data
 
 BUNDLED WITH
-   1.14.6
+   1.15.0
