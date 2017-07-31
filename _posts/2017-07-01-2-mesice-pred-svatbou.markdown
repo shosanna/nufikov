@@ -2,7 +2,6 @@
 layout: post
 title:  2 měsíce před svatbou
 date:   2017-07-01 13:46:13 +0200
-categories: přípravy
 ---
 
 Všechno neuvěřitelně rychle letí. Je to zhruba půl roku, co jsem začala svatbu aktivně řešit a plánovat a už se mi

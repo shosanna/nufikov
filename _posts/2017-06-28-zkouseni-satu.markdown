@@ -2,7 +2,6 @@
 layout: post
 title:  Hledání těch pravých šatů
 date:   2017-06-28 13:46:13 +0200
-categories: přípravy, šaty
 ---
 
 Najít ty pravé svatební šaty mi trvalo zhruba půl roku. Začala jsem někdy kolem Vánoc, a moje úplně první

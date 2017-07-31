@@ -2,7 +2,6 @@
 layout: post
 title:  Předsvatební focení
 date:   2017-06-10 13:46:13 +0200
-categories: přípravy, foto
 ---
 
 Předsvatební focení se [Zuzanou Sharf](http://www.zuzanascharf.cz/) jsme měli na začátku května. Měli jsme ohromnou kliku, bylo
