@@ -48,8 +48,12 @@ footer.site-footer {
     height: 150px;
     max-width: none;
 
-    div.footer-col-wrapper {
+    div.footer-col-wrapper, h2.footer-heading {
       color: white;
+
+      div.footer-col a {
+        color: white;
+      }
     }
 }
 
