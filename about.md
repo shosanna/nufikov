@@ -4,6 +4,12 @@ title: Praktické informace o svatbě
 permalink: /prakticke-informace/
 ---
 
+# Kdy
+9.9.2017 od 11:00
+
+# Kde
+[Villa Voyta, K Novému Dvoru 124/54, Praha 4, Lhotka](http://www.villavoyta.cz/cz/kontakty/)
+
 # Program
 
 - 10.00 - 10.30 příjezd hostů do Villy Voyty
@@ -14,13 +20,21 @@ permalink: /prakticke-informace/
 - 13.00 raut
 - 15.00 krájení dortu
 - 16.00 novomanželské hry
-- 18.00 první tanec
-- 19.00 raut 2
+- 18.00 raut 2
+- 19.00 první tanec
 
 # Další info
+**Prostory**
+
 Svatba se bude celá konat na zahradě hotelu Villa Voyta. Zahrada je poměrně malá, ale hosté budou mít možnost také využívat
 hotelové restaurace, pro případný oddych. Obsluha bude nicméně jen na zahradě, kde se bude také podávat jídlo a bude přítomný bar.
-Na baru bude zdarma nealko a pivo, ostatní bude možné zakoupit :). Jídlo bude zdarma vše. 
+
+**Bar**
+
+Jídlo je po celý den pro všechny hosty zdarma, jelikož ale nejsme příliš fanoušci alkoholu, k pití bude zdarma k dispozici jen nealko, pivo a víno
+do vyčerpání limitu. Poté bude samořejmě možné cokoliv si zakoupit :)
+
+**Zábava**
 
 Zábava bude spíše volná. Večer
 bude možnost tance na parketu před altánkem. V případě deště je celé posezení zastřešené a nebo je možné přemístit se do hotelové
